@@ -27,7 +27,7 @@
 # UML Component Diagram
 
 <p align="center">
-<img src="Diagram/CST361-UMLComponenentDiagram.png"/>
+<img src="Diagram/CST361-UMLComponenetDiagram.png"/>
 </p>
 
 # UML Class Diagram

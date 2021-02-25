@@ -1,26 +1,27 @@
 # Blogstra
-<p> Blogstra is a blog web application using JAva Spring MVC framework with implementation of  MySQL database, jQuery and RESTful service 
-<p/>
+<p> Blogstra is a blog web application using JAva Spring MVC framework with implementation of  MySQL database, jQuery and RESTful service </p>
 
 # ER diagram:
-
-<img src=“Diagram/CST361-ERDiagram.png/>
-
+<p align="center">
+<img src="Diagram/CST361-ERDiagram.png"/>
+</p>
 # Flow Chart
-
-<img src=“Diagram/CST361-FlowChart.png”/>
-
+<p align="center">
+<img src="Diagram/CST361-FlowChart.png"/>
+</p>
 # Sitemap
-
-<img src=“Diagram/CST361-Sitemap.png”/>
-
+<p align="center">
+<img src="Diagram/CST361-Sitemap.png"/>
+</p>
 # UML Usecase Diagram
-
-<img src=“Diagram/CST361-UseCaseDiagram.png”/>
-
+<p align="center">
+<img src="Diagram/CST361-UseCaseDiagram.png"/>
+</p>
 # UML Component Diagram
-
-<img src=“Diagram/CST361-UMLComponentDiagram.png”/>
+<p align="center">
+<img src="Diagram/CST361-UMLComponentDiagram.png"/>
+</p>
 # UML Class Diagram
-
-<img src=“Diagram/CST361-UMLClassDiagram.png”/>
+<p align="center">
+<img src="Diagram/CST361-UMLClassDiagram.png"/>
+</p>
